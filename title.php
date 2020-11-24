@@ -1,0 +1,1 @@
+<!--<h2 class="page-title" style="color: #F33">Visitor Information Management System</h2>-->

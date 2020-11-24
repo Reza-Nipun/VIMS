@@ -1,0 +1,1 @@
+select visitor_type, count(visitor_type) from tb_visitor_info group by visitor_type
